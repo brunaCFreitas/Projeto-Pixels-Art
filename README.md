@@ -9,6 +9,7 @@ Neste projeto desenvolvi um editor de arte com pixels com as seguintes funcional
 
 ## Demonstração
 
+[pixels-art.webm](https://github.com/brunaCFreitas/Projeto-Pixels-Art/assets/80068419/5b5f0a59-3c9c-403b-a56c-5439a09fea30)
 
 
 ## Tecnologias utilizadas
